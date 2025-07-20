@@ -1,0 +1,19 @@
+{
+  "name": "Secure Password Generator",
+  "short_name": "PasswordGen",
+  "description": "Privacy-first, client-side password generator with no data transmission",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["utilities", "productivity", "security"],
+  "lang": "en",
+  "orientation": "portrait-primary"
+}
