@@ -10,6 +10,7 @@ interface PasswordOptions {
   includeNumbers: boolean
   includeSymbols: boolean
   excludeSimilar: boolean
+  excludeAmbiguous?: boolean
   customSymbols?: string
   pinLength?: number
   pinNoRepeats?: boolean
